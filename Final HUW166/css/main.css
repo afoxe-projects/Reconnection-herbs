@@ -1,0 +1,16 @@
+.main-footer {
+  background: #d9e4ea;
+  padding: 2em 0;
+  margin-top: 30px;
+}
+body {
+  background-color: #D499FF;
+}
+.footer-inner {
+  width: 80%;
+  margin: 0 auto;
+  max-width: 1150px;
+}
+.main-footer {
+  text-align: center;
+}
